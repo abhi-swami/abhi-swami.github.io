@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3afb4481.css",
-    "main.js": "/static/js/main.1b8e3372.js",
+    "main.css": "/static/css/main.954ff4e5.css",
+    "main.js": "/static/js/main.f8e06fd7.js",
     "static/js/787.b217d0ff.chunk.js": "/static/js/787.b217d0ff.chunk.js",
     "static/media/becool1.png": "/static/media/becool1.20a21f241b8e8b3933de.png",
     "static/media/bestbuy1.png": "/static/media/bestbuy1.311283365bce9758a9ff.png",
@@ -24,12 +24,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.3afb4481.css.map": "/static/css/main.3afb4481.css.map",
-    "main.1b8e3372.js.map": "/static/js/main.1b8e3372.js.map",
+    "main.954ff4e5.css.map": "/static/css/main.954ff4e5.css.map",
+    "main.f8e06fd7.js.map": "/static/js/main.f8e06fd7.js.map",
     "787.b217d0ff.chunk.js.map": "/static/js/787.b217d0ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3afb4481.css",
-    "static/js/main.1b8e3372.js"
+    "static/css/main.954ff4e5.css",
+    "static/js/main.f8e06fd7.js"
   ]
 }
